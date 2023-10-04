@@ -1,6 +1,5 @@
 ##############################################################################
 # Speedy-Typing-McQueen - Python Script
-# Speedy-Typing-McQueen - Python Script
 # Description: A simple typing game with a graphical user interface (GUI) that
 # measures the user's typing speed. It generates random text using the Lipsum
 # API and prompts the user to type it as fast as possible.
